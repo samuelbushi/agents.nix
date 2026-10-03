@@ -1,7 +1,7 @@
 {
-  "rev": "desktop-v8.2.4",
-  "version": "8.2.4",
-  "hash": "PNVu0q+fqXd/KqIDZoeXhY9eKLS+taepeZNBlx/M+BQ=",
+  "rev": "b5fabd4ec09747f8ba82e668f49f848adb0519cb",
+  "version": "0-unstable-2026-09-11",
+  "hash": "/u5CAsgN+q4DrkUucgJt3TUUtA7xv7RpZF5EPFljPYE=",
   "paths": {
     ".claude/skills": ["calypso-react-query-migration", "calypso-security-alerts", "dashboard-create-screen", "fix-e2e-tests", "help-center-ui-test", "reader-protocol-pr-review", "stepper-flow"],
     "packages/image-studio/.agents/skills": ["ui-testing"]
