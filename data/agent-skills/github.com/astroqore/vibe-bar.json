@@ -1,7 +1,7 @@
 {
-  "rev": "v1.6.3",
-  "version": "1.6.3",
-  "hash": "k9TNZRSlW0DzcM7ylSMKt8NbHMbst0hefxBi3FIaf8I=",
+  "rev": "refs/tags/v1.7.0",
+  "version": "1.7.0",
+  "hash": "M3YGBOEfFVDTmt1nI0qgbaeP6mQplIjkDM+0KgdYWh8=",
   "paths": {
     "docs/agent-setup/skill": ["vibe-bar"]
   }
