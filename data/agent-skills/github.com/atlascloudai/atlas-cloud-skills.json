@@ -1,7 +1,7 @@
 {
-  "rev": "f79da83cce4f164d5e2c1376f7495f58c6e29339",
-  "version": "0-unstable-2026-09-22",
-  "hash": "ihGpuWCs/ChFvrFB68Ij0aWQ19cpGRhSkaprwLdDBnc=",
+  "rev": "8330eeb680e9a32af582cc0d90209827b167d5eb",
+  "version": "0-unstable-2026-10-01",
+  "hash": "rbG4+1XR0HYRJIWeefmhHbM28hEEQ3tBXU435Mm7iHQ=",
   "paths": {
     "": ["atlas-cloud"],
     "skills": ["seedance-2-5-skill", "universal-video-prompt-skill"]
