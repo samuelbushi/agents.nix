@@ -1,7 +1,7 @@
 {
-  "rev": "v6.260922.4",
-  "version": "6.260922.4",
-  "hash": "/sGCc1B79XFcgSUfsM4qfnkQXJkzZXsAvW/pNd3dukY=",
+  "rev": "refs/tags/v6.261003.1",
+  "version": "6.261003.1",
+  "hash": "1YdFkg06ijC4fqHF9d+a3kkFN1HTfjrxTUqShGS35Ck=",
   "paths": {
     ".genie/attic/skills": ["learn"],
     "skills": ["authoring", "brainstorm", "council", "deslop", "docs", "fix", "genie", "genie-hacks", "merge", "refine", "report", "research", "review", "skill-audit", "verify", "wish", "work", "workfly"]
