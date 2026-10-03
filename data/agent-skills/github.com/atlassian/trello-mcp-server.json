@@ -1,7 +1,7 @@
 {
-  "rev": "d37a70182902b71f36821f140d92c22c3a9f74a4",
-  "version": "0-unstable-2026-07-24",
-  "hash": "A7o+AmPe2o+xz4lDURTwx0V2dTOd/EoVh1QcxNY6Gcg=",
+  "rev": "04d9b55f15765dda2aeac430fd5b1041a6bf054d",
+  "version": "0-unstable-2026-09-25",
+  "hash": "WFRe+OI8+K9ewgE9XLotdo7goGF5UQI728nNVW8yobc=",
   "paths": {
     "skills": ["trello-use"]
   }

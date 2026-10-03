@@ -1,7 +1,7 @@
 {
-  "rev": "v1.9.0",
-  "version": "1.9.0",
-  "hash": "jg8lmjdtYFOxo+TC5pmLLy3rBBs0IwWZa+/AcfAW8eg=",
+  "rev": "refs/tags/v1.22.0",
+  "version": "1.22.0",
+  "hash": "Q/dVTouvkWM7BumU81dP22D50KBYHty9apuQaY2IMDU=",
   "paths": {
     "skills": ["hermes-awesome-plugins-sync"]
   }

@@ -1,8 +1,8 @@
 {
-  "rev": "bfeda37c8718cadc01cbb4ffd7e47e166a5d0cf6",
-  "version": "0-unstable-2025-10-26",
-  "hash": "aPQvx51UUHnTk7+o/LaPaOOzuHD1Q9XSyPpyI22TQkE=",
+  "rev": "b4ab3fe9b14b0e4cc9f480a633a0f5e8f05b99a6",
+  "version": "0-unstable-2026-10-03",
+  "hash": "ncqgsUrFq4skoMUhR6qBPWNUCQvSocecSLvwb2jOa1k=",
   "paths": {
-    ".claude/skills": ["shortcuts"]
+    "skills": ["shortcuts"]
   }
 }

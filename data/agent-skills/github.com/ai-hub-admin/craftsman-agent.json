@@ -1,8 +1,8 @@
 {
-  "rev": "71ff5a8e0322636d335cde93feaaa142183bbc2e",
-  "version": "0-unstable-2026-09-14",
-  "hash": "yJ5K5tnXXPNFrEpzPxogAeSIk6N47hq6Z6GL7m42RFg=",
+  "rev": "8c7636298fdb9ca2c4734c9de40a0d3413ed8567",
+  "version": "0-unstable-2026-10-03",
+  "hash": "lECfNfzKJvPAFHio5+05+hJUAjiheggE2FbVGpURAQA=",
   "paths": {
-    "skills": ["3d-generator", "3d-printing-generator", "ai-poster-generator", "ai-ppt-powerpoint-generator", "app-store-assets-generator", "architecture-generator", "craftsman-agent-skills", "figurine-generator", "gallery-publisher", "game-asset-generator", "generate-lego-3D-build-plan", "generate-minecraft-3D-build-plan", "generate-perler-bead-pindou", "generate-pindou", "generate-tesla-car-wraps", "icon-designer", "image-generator", "instagram-post-generator", "knowledge-card-generator", "logo-designer", "marketplace-publisher", "photo-editor", "social-media-posts-generator", "stuffed-toy-generator", "toy-generator", "x-twitter-post-generator", "xiaohongshu-post-generator"]
+    "skills": ["3d-generator", "3d-printing-generator", "ai-poster-generator", "ai-ppt-powerpoint-generator", "app-store-assets-generator", "architecture-generator", "bag-designer", "clothing-designer", "coat-designer", "craftsman-agent-skills", "dress-designer", "figurine-generator", "gallery-publisher", "game-asset-generator", "generate-lego-3D-build-plan", "generate-minecraft-3D-build-plan", "generate-perler-bead-pindou", "generate-pindou", "generate-tesla-car-wraps", "gloves-designer", "hat-designer", "hoodie-designer", "icon-designer", "image-generator", "instagram-post-generator", "jacket-designer", "jeans-designer", "jewelry-designer", "knowledge-card-generator", "logo-designer", "marketplace-publisher", "pants-designer", "photo-editor", "polo-shirt-designer", "scarf-designer", "shirt-designer", "shoes-designer", "shorts-designer", "skirt-designer", "social-media-posts-generator", "socks-designer", "stuffed-toy-generator", "t-shirt-designer", "toy-generator", "x-twitter-post-generator", "xiaohongshu-post-generator"]
   }
 }
