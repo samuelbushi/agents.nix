@@ -7,6 +7,6 @@
     "skills": ["bunli"]
   },
   "at": {
-    "skills/bunli": {"rev": "bunli@0.9.1", "version": "0.9.1", "hash": "2aZshsouqXKA4Z/CK3r1kvN++mUFYo4o3gaKAKgIuLI="}
+    "skills/bunli": {"rev": "refs/tags/bunli@0.9.1", "version": "0.9.1", "hash": "2aZshsouqXKA4Z/CK3r1kvN++mUFYo4o3gaKAKgIuLI="}
   }
 }
