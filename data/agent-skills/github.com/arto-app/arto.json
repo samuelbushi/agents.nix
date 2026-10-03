@@ -1,7 +1,7 @@
 {
-  "rev": "v0.37.0",
-  "version": "0.37.0",
-  "hash": "eJy6EKKBt5C/EkjwKeb+wzV+ru+IaA27MF0/s+40wuo=",
+  "rev": "refs/tags/v0.39.2",
+  "version": "0.39.2",
+  "hash": "2zWb3tYyIgIyctQDEvyGFAX5GYmw7XCymW6LcmCYbgs=",
   "paths": {
     ".claude/skills": ["add-icon"]
   }
