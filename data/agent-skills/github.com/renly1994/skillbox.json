@@ -1,7 +1,7 @@
 {
-  "rev": "refs/tags/desktop-v0.6.8",
-  "version": "0.6.8",
-  "hash": "J+0s8eIAAegvnBz57YssCGodvUbGnpB8kIVsKrIm2Rk=",
+  "rev": "refs/tags/desktop-v2.0.1",
+  "version": "2.0.1",
+  "hash": "z69EFwUFldQguexqSnvN5UuvSEkiDIuHcJnbbpMCyR0=",
   "paths": {
     "packages/cli": ["test-invalid", "test-skill"]
   }

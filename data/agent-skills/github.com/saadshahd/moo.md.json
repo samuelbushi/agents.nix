@@ -1,10 +1,12 @@
 {
-  "rev": "refs/tags/sound@0.0.3",
-  "version": "0.0.3",
-  "hash": "S/9sWyKlR3OMvDl31VbY9Utls2TeEuKvEwHDfVepjRU=",
+  "rev": "595eda0e3b477d1af1daad82f395073d4f912c8d",
+  "version": "0-unstable-2026-09-30",
+  "hash": "KNN2zXTvMOWH5tNlG04rb9hPVqJapu6uinQ5dc/2IHg=",
   "paths": {
-    "hope/skills": ["consult", "delegate", "freeze", "intent", "over", "shape"],
-    "hunch/skills": ["catch", "grasp", "land", "toy"],
+    ".claude/skills": ["moo-authoring"],
+    "hold/skills": ["grasp", "land", "learn", "toy"],
+    "hope/skills": ["anchor", "clarify", "compose", "consult", "draft", "elicit", "explain", "freeze", "intent", "interrogate", "inversion", "judge", "provocation", "reduce", "reframe", "router", "shape", "shift", "widen"],
+    "hunch/skills": ["fly", "harvest"],
     "sound/skills": ["prime", "review", "setup"]
   }
 }

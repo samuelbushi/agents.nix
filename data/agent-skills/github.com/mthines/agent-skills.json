@@ -1,0 +1,15 @@
+{
+  "rev": "dfd1a495c850678f247dfccdfe761d74164f5be5",
+  "version": "0-unstable-2026-10-03",
+  "hash": "UIl+lFakN1AG4LU59XfR+l8efbaCKMIkLKra7ejmfCc=",
+  "paths": {
+    "skills/analysis": ["holistic-analysis", "ideate", "interview", "playwright-trace-analyzer", "profile-optimizer", "rum-tracking", "screen-recorder", "video-analyser"],
+    "skills/authoring": ["create-skill", "docs", "handoff", "optimize-claude-md", "persistent-memory"],
+    "skills/delivery": ["changelog", "ci-auto-fix", "create-pr", "github-actions-author", "resolve-conflicts"],
+    "skills/design": ["animations", "animations-native", "behavioral-design", "charting", "storybook", "ux", "visual-design"],
+    "skills/quality": ["ai-engineering", "code-quality", "confidence", "critical", "dx", "eval-iterate", "jev-assert", "measurable", "observe-run", "optimize-approach", "polish", "pr-review", "review-branch", "review-loop", "severity", "tdd", "test-provenance-guard", "verify-behavior"],
+    "skills/testing": ["e2e-pr-stabilizer", "e2e-testing", "e2e-testing-mobile", "ui-verify"],
+    "skills/workflow": ["autonomous-workflow", "aw-create-plan", "aw-create-walkthrough", "fix-bug", "implement-suggestion"],
+    "skills/workflow/autonomous-workflow": ["aw", "aw-setup", "aw-tester-chrome"]
+  }
+}

@@ -1,7 +1,7 @@
 {
-  "rev": "refs/tags/v5.0.10",
-  "version": "5.0.10",
-  "hash": "nOhuAObu6d1EE/kX5Kf3Wzb+Rf2c2B3QZIrV/RLvtOA=",
+  "rev": "refs/tags/v6.0.6",
+  "version": "6.0.6",
+  "hash": "5lo/7C8gc023BkbLRAQ7F2ACm2SdbRRjza6ZcwhZ1TQ=",
   "paths": {
     "": ["moldea"],
     "qualification/profiles/t6/cases/c10/seed/agent/skills": ["guide"]

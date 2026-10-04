@@ -1,7 +1,7 @@
 {
-  "rev": "ded229402d67101c0835fb6b1d3c614e96df3b25",
-  "version": "0-unstable-2026-09-22",
-  "hash": "6Ky4cKyezraovxav/rJV8UeKH/nW8otisZP7PELfvJs=",
+  "rev": "c6138d3430206d586b3609e0a624336cdf504b7e",
+  "version": "0-unstable-2026-10-03",
+  "hash": "43FkfLyLTygh+AOPGOsWpBRlBKvGjs7ckzYzB3lrcVU=",
   "paths": {
     "plugins/agent-chat-plugin/skills": ["agent-chat"],
     "plugins/better-code-review-graph/skills": ["impact-audit", "onboard-repo", "refactor-check", "review-delta", "review-pr", "security-sweep"],

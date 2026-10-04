@@ -1,7 +1,7 @@
 {
-  "rev": "refs/tags/v1.27.30",
-  "version": "1.27.30",
-  "hash": "EEwPxt6B7Df2iMhbLeaaAJ5YYS7ee9HnUNjgFsmQPG4=",
+  "rev": "refs/tags/v1.27.42",
+  "version": "1.27.42",
+  "hash": "wYV3KRV/iJ0W5rYNTDallKpkXxdFdEGuWClbjlldWMc=",
   "paths": {
     ".cursor/skills": ["verify-puppetmaster-jev"],
     "puppetmaster/pi_package/skills": ["puppetmaster-pilot"],

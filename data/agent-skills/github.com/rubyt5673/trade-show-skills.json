@@ -1,6 +1,6 @@
 {
-  "rev": "c91f29a0ae0b56cd9e67a75de76540e6ecc09c56",
-  "version": "0-unstable-2026-09-22",
+  "rev": "9ee53b0d5b878a617ecb91b0e0632c4bdf22c615",
+  "version": "0-unstable-2026-10-04",
   "hash": "UVWrP1Xui2CKiHdxx0D6sO2+g6E4n8v1vsKfni/D7VI=",
   "paths": {
     "": ["badge-qualifier", "booth-invitation-writer", "competitor-radar", "post-show-followup", "trade-show-budget-planner", "trade-show-finder"]

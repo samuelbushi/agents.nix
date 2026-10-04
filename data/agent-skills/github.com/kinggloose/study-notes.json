@@ -1,8 +1,6 @@
 {
-  "rev": "de46a94ab8aa4d3a355984356c078002d6e2ea10",
-  "version": "0-unstable-2026-07-25",
-  "hash": "ncqzLjGgDyDrOo2xc3khO+d5z2D7HeUrHqZI85LJ0hQ=",
-  "paths": {
-    "skills": ["bilibili-ingest", "knowledge-backfill"]
-  }
+  "rev": "f98dbe2e93a3866f1b1ce2fc369ee4c2b3da1a35",
+  "version": "0-unstable-2026-08-04",
+  "hash": "/C6FsJI7xl3TgFLZmQNPmgMISirLor9/9rgTN5baT24=",
+  "paths": {}
 }

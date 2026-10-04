@@ -1,8 +1,8 @@
 {
-  "rev": "88ef398e14eb8e57db1b35da41a14414b007a3a5",
-  "version": "0-unstable-2026-06-05",
-  "hash": "c4wZv+ZEJfPtDhhOMkaeGllSUkpcgLpvMeuFFg3Kn+c=",
+  "rev": "b3c887b9adcdde133c980b9d23f3730ca0070fef",
+  "version": "0-unstable-2026-09-29",
+  "hash": "/jHyCA86qCM6RnudvFl95ROWNd65e+jRcXeA0yR4X5Q=",
   "paths": {
-    "skills/stitch-skills": ["stitch-uview-plus-components"]
+    ".agents/skills": ["openspec-apply-change", "openspec-archive-change", "openspec-explore", "openspec-propose"]
   }
 }

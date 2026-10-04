@@ -1,10 +1,8 @@
 {
-  "rev": "44ae38bf17bf7378e82d4cc7e9342360e2832207",
-  "version": "0-unstable-2026-09-21",
-  "hash": "2Go39P4tfubs7CIRlTnIJh6XrjVqTyiiLZuI8Gnb3bs=",
+  "rev": "b6ed81f4f5fa42183049f6a61647a2f9496b6542",
+  "version": "0-unstable-2026-10-04",
+  "hash": "910dc4OD9eHbokfpCUqhQM2h433/gDVFlYKLVODl5vk=",
   "paths": {
-    "apps/ai-tools-manager/.claude/skills": ["create-skills-architecture", "log-view", "maestro-architecture", "rule-view", "updating-maestro", "workflow-view"],
-    "plugins/ai-tools-manager/templates": ["maestro"],
-    "skills": ["ai-tools", "chromatic-init", "claude-light", "confidence-check", "create-marketplace", "create-plugin", "create-skill", "create-subagent", "design-init", "design-loop", "design-palette", "generate-pr-description", "gluestack-ui", "maestro-app", "maestro-install", "maestro-post-mortem", "maestro-uninstall", "maestro-update", "manage-marketplace", "pin-exact-nodejs-dependencies", "react-coding-standards", "react-files-structure-standards", "react-flow", "react-flow-canvas-geometry", "react-hook-form", "react-linter-setup", "react-single-responsibility", "review-code-changes", "storybook-init", "super-help", "to-maestro-tasks", "use-design-check"]
+    "skills": ["chromatic-init", "claude-light", "design-init", "design-loop", "design-palette", "design-refresh", "design-screens", "generate-pr-description", "gluestack-ui", "manage-marketplace", "pin-exact-nodejs-dependencies", "react-coding-standards", "react-files-structure-standards", "react-flow", "react-flow-canvas-geometry", "react-hook-form", "react-linter-setup", "react-single-responsibility", "review-code-changes", "setup-claude-auto-lint-format", "setup-claude-guardrails", "setup-claude-just-usage", "storybook-init", "super-help"]
   }
 }

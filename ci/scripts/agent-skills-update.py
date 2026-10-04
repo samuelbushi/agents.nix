@@ -203,7 +203,7 @@ class Candidate(typing.NamedTuple):
         return {"rev": self.archive_ref, "version": self.version}
 
     def names(self, rev: str) -> bool:
-        return rev.removeprefix("refs/tags/") in {self.tag, self.rev}
+        return rev in {self.archive_ref, self.rev}
 
     def recorded_in(self, pin: Snapshot | Pin) -> bool:
         return self.written().items() <= pin.items()

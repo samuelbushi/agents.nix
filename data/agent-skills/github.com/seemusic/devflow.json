@@ -1,8 +1,6 @@
 {
-  "rev": "2f7170a9e3dd8f26d4365c3c8ff8947aadcb0711",
-  "version": "0-unstable-2026-03-13",
-  "hash": "xOCTR6mCmE8Pw86OOnuwyTC3WhPMIjNi0RZoTXgBZbw=",
-  "paths": {
-    "skills": ["devflow-jira"]
-  }
+  "rev": "d18eb1a7c5b2d045e6af63126f3cdfee0fb0b1be",
+  "version": "0-unstable-2026-07-30",
+  "hash": "Io9JBIS6ZJrUhvLhRn+/JBAska7sW9RWDPPyuNIY9tU=",
+  "paths": {}
 }

@@ -1,8 +1,6 @@
 {
-  "rev": "585c608361b93f14ff0c5bf2c9b711cb74a8af79",
-  "version": "0-unstable-2026-01-23",
-  "hash": "ufFH+a4G3bGEdaJ4LUbad/PVypdHoUO3LSTzHRNusPo=",
-  "paths": {
-    ".opencode/skill": ["design-loop", "publish-article", "question-design", "questions-evolution", "questions-insight", "questions-journey", "research-gather", "screenshot", "strangers-eye", "synthesis-prep", "synthesis-prep-review", "technical-review", "the-art", "transcribe-walk", "voice", "walk-and-talk", "web-design"]
-  }
+  "rev": "1b3ac664a079275cb0b636c214e7d91a2b430718",
+  "version": "0-unstable-2026-05-16",
+  "hash": "k0FucpJy12QBdxZLhvR1TzrJpZfnxqyOGysY3SFwUow=",
+  "paths": {}
 }

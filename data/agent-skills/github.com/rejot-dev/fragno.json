@@ -1,8 +1,11 @@
 {
-  "rev": "refs/tags/@fragno-dev/workflows@0.0.1",
-  "version": "0.0.1",
-  "hash": "w2XSRCmF1fkuz90U4B6Y7g3EoRyKaxfYpHOoKWXxuyE=",
+  "rev": "016aa93c900e14565e642dcdb48cafb42ca08d95",
+  "version": "0-unstable-2026-10-03",
+  "hash": "GYqOJ0SRmhlsXlKUvZuQ5P2RNVr9x6WvsOMs1pEkpdI=",
   "paths": {
-    ".agents/skills": ["fragno", "fragno-author", "fragno-commit", "fragno-spec", "fragno-spec-implement"]
+    ".agents/skills": ["core", "fragno", "fragno-author", "fragno-workflows", "react", "react-doctor", "self-documenting-code", "trace-analysis"],
+    "apps/backoffice/content/marketplace/jira-setup/versions/1.0.0/skills": ["jira-setup"],
+    "apps/backoffice/content/marketplace/slack-setup/versions/1.0.0/skills": ["slack-setup"],
+    "apps/backoffice/content/static/skills": ["api-connection", "api-webhooks", "building-automations", "configuring-integrations", "forms", "generating-backoffice-uis", "mcp-connection", "open-connector-connection", "otp-system", "resend-integration", "reson8-integration", "sandbox", "telegram-integration", "upload-integration", "using-prepared-uploads", "web", "workflows"]
   }
 }

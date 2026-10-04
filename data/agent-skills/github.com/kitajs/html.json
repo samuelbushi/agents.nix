@@ -1,0 +1,10 @@
+{
+  "rev": "22bd8a30b0c94e879094fc537a3310a7f785bce6",
+  "version": "4.2.13-unstable-2026-07-16",
+  "hash": "2Zuda9BmzA4Jd/Xn7HSLS5GPh7bpp9Wgv/lo8P8MZM8=",
+  "paths": {
+    ".agents/skills": ["rspress-custom-theme", "rspress-description-generator", "skill-creator"],
+    ".claude/skills": ["information-mapping", "kita-dev-workflow", "kita-project-knowledge", "rspress-writing", "twoslash"],
+    "skills": ["kita-html"]
+  }
+}
